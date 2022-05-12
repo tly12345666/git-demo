@@ -8,4 +8,4 @@ hello tina!  hello git!
 hello tina!  hello git!
 hello tina!  hello git!
 hello tina!  hello git!
-hello tina!  hello git!
+hello tina!  hello git! hot-fix test
